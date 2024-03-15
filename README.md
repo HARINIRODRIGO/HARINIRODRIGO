@@ -47,4 +47,7 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" align="left" alt="git" height='50px'/>  </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" align="left" alt="git" height='50px'/>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" align="left" alt="git" height='50px'/>   </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" align="left" alt="git" height='50px'/>   </a>
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" align="left" alt="git" height='50px'/>   </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" align="left" alt="git" height='50px'/>   </a>
 <br>
