@@ -6,7 +6,7 @@ class SoftwareEngineer {
     constructor() {
         this.name = "Harini Rodrigo";
         this.role = "Software Engineer";
-        this.language_spoken = ["zh_CN", "en_US"];
+        this.language_spoken = ["sinhala", "en_US"];
     }
 
     sayHi() {
