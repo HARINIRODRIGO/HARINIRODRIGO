@@ -41,7 +41,6 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
 <a href="https://projectlombok.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" align="left" alt="git" height='42px'/> </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">  </a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" height ="42px"/> </a>
@@ -49,5 +48,5 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" align="left" alt="git" height='42px'/>  </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" align="left" alt="git" height='50px'/>  </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" align="left" alt="git" height='50px'/>
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" align="left" alt="git" height='50px'/>  </a>
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" align="left" alt="git" height='50px'/>   </a>
 <br>
