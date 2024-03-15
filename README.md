@@ -46,4 +46,5 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" align="left" alt="git" height='42px'/>  </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" align="left" alt="git" height='50px'/>  </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" align="left" alt="git" height='50px'/>  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" align="left" alt="git" height='50px'/>  </a>
 <br>
