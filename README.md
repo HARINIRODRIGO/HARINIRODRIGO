@@ -11,7 +11,7 @@ class SoftwareEngineer {
     }
 
     sayHi() {
-        console.log("Thank you for visiting! I hope you've found some of my projects intriguing. Feel free to reach out if you have any questions. Looking forward to connecting with you!");
+         console.log("Thank you for visiting! \nI hope you've found some of my projects interesting.\nFeel free to reach out if you have any questions.\nLooking forward to connecting with you!😊");
     }
 }
 
