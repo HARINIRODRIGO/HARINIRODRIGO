@@ -23,7 +23,7 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 
-### 🧐 More About Me:
+### 😊 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Underwater Debris Detection System**
 - 🌱 &nbsp; I’m currently learning ReactJs, Next JS; 
