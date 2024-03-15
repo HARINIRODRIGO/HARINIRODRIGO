@@ -19,10 +19,9 @@ const me = new SoftwareEngineer();
 me.sayHi();
 ```
 I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️ 
-<br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 
 ### 🧐 More About Me:
 
@@ -31,7 +30,6 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harinirodrigo?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/harini-rodrigo/)
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
