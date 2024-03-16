@@ -55,7 +55,6 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
-&nbsp;<br>
 
 ### <img src="https://github.com/HARINIRODRIGO/HARINIRODRIGO/blob/main/templates/github.png" width="25" height="25"> &nbsp; Github Stats:
 
