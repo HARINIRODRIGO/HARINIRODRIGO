@@ -28,7 +28,7 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 - 🔭 &nbsp; I’m currently working on **Underwater Debris Detection System**
 - 🌱 &nbsp; I’m currently learning ReactJs, Next JS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harinirodrigo?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help: [Harini Rodrigo 📧](mailto:harini.rodrigo@outlook..com?subject=[GitHub]%20Source%20Question)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help: [Harini Rodrigo 📧](mailto:harini.rodrigo@outlook.com?subject=[GitHub]%20Source%20Question)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/harini-rodrigo/)
 
 ### 🔨 Languages and Tools:
