@@ -58,4 +58,4 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 
 ### <img src="https://github.com/HARINIRODRIGO/HARINIRODRIGO/blob/main/templates/github.png" width="25" height="25"> &nbsp; Github Stats:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harinirodrigo&theme=github_dark_dimmed&hide_progress=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harinirodrigo&hide_progress=true)
